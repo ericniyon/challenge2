@@ -63,7 +63,7 @@ function App() {
 
             <p className='d-inline-block text-nowrap '>
               Enter album id and click "Get Album Photos By Id button" to see
-              your photos
+              your photos 
             </p>
             </div>
           )}
